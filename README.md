@@ -1,7 +1,13 @@
 # ตัวอย่าง : Docker-compose
 
 1. ให้สร้างไฟล์ docker-compose.yml และ uploads.ini
-2. ใช้คำสั่ง `docker-compose up` ได้เลย
+2. ใช้คำสั่ง Run `docker-compose up`
+3. เปิด Browser เข้าผ่าน `localhost:80`
+4. ให้กำหนด Username และ Password ดังนี้
+   - Username : `admin`
+   - Password : `!123456789@#`
+
+
 
 docker-compose.yml
 ```
