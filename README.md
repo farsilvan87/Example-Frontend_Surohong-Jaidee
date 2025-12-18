@@ -7,9 +7,9 @@
    - Username : `admin`
    - Password : `!123456789@#`
 
+<hr>
 
-
-docker-compose.yml
+File : docker-compose.yml
 ```
 version: '3.9'
 
@@ -61,8 +61,9 @@ volumes:
   wordpress_data:
 ```
 
+<hr>
 
-uploads.ini
+File : uploads.ini
 ```
 file_uploads = On
 memory_limit = 512M
