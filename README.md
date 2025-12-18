@@ -1,4 +1,7 @@
-# Example Docker-compose
+# ตัวอย่าง : Docker-compose
+
+1. ให้สร้างไฟล์ docker-compose.yml และ uploads.ini
+2. ใช้คำสั่ง `docker-compose up` ได้เลย
 
 docker-compose.yml
 ```
